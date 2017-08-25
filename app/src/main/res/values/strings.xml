@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="add_button">Add product</string>
+    <string name="delete_button">Delete product</string>
+    <string name="new_product_add">Add new product</string>
+    <string name="edit_product">Edit product</string>
+    <string name="order_from_provider">Order from provider</string>
+    <!-- Empty database -->
+    <string name="default_textview">Upss...  No products added. \n\n To add a new product click \n on the top right corner</string>
+
+    <!-- Product details field -->
+    <string name="prod_name">Product name: </string>
+    <string name="prod_name_hint">Ex: chrome cast</string>
+    <string name="quantity">Quantity: </string>
+    <string name="prod_price">Price: </string>
+    <string name="prod_price_hint">0.00</string>
+    <string name="button_one_pluss">+</string>
+    <string name="button_one_minus">-</string>
+    <string name="button_select_prodimage">Select image...</string>
+    <string name="provider_mail">provider@gmail.com</string>
+    <string name="product_update_failed">Product not saved!</string>
+
+    <!-- MainActivity Product details field -->
+    <string name="sale_button">Sale</string>
+    <string name="quantity_label">Products available</string>
+    <string name="price_label">$</string>
+
+    <!-- Alert messages -->
+    <string name="delete_product">Are you sure you want to delete this product?</string>
+    <string name="delete_button_alert">Delete</string>
+    <string name="cancel_button_alert">Cancel</string>
+    <string name="yes_button">Yes</string>
+    <string name="leave_without_save_button">Are you sure you do not \n want to save the product?</string>
+
+</resources>
