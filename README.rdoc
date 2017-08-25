@@ -1,0 +1,2 @@
+This is my last project delivered to Udacity and after this delivery I got the Android Developer certificate. This is a completely functional app 
+that hold the inventory over a shop, magazine or anything else. You can add and delete the products listed from you in the app.
